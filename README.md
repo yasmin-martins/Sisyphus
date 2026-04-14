@@ -7,7 +7,7 @@ Bem-vindo ao repositório da Sisyphus, um projeto desenvolvido para fins acadêm
 A Sisyphus é uma loja virtual especializada em camisetas de nicho geek e pop culture. O nome faz alusão ao mito de Sísifo, mas aqui a única tarefa repetitiva será a vontade do cliente de levar todas as estampas!
 O objetivo principal deste projeto foi aplicar conceitos de Design Responsivo, Semântica HTML5 e Estilização Avançada com CSS.
 
-* Tecnologias:
+* Tecnologias Utilizadas:
 
 O projeto foi construído "raiz", sem frameworks externos, para garantir o domínio das bases do desenvolvimento front-end:
 
