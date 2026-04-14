@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Loja Sisyphus o maior acervo dos itens mais lendários do universo.">
+    <title>Sisyphus Contact</title>
+    <link rel="stylesheet" href="imagens/css/contact.css">
+</head>
+
+<body>
+    
+       <header>
+    <button class="btn-voltar" onclick="history.back()">Voltar</button>
+    <h1>Fale Conosco</h1>
+    <div style="width: 80px;"></div> 
+</header>
+   
+
+    <main>
+        <div class="form-container">
+            <p>Sua opinião é muito importante para nós! Se tiver alguma reclamação, sugestão ou elogio, envie sua mensagem.</p>
+
+            <form action="submit_contact_form.php" method="post">
+                <div class="campo-grupo">
+                    <label for="name">Nome:</label>
+                    <input type="text" id="name" name="name" required>
+                </div>
+
+                <div class="campo-grupo">
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+
+                <div class="campo-grupo">
+                    <label for="telefone">Telefone:</label>
+                    <input type="tel" id="telefone" name="telefone" required>
+                </div>
+
+                <div class="campo-grupo">
+                    <label for="assunto">Assunto:</label>
+                    <input type="text" id="assunto" name="assunto">
+                </div>
+
+                <div class="campo-grupo">
+                    <label for="message">Mensagem:</label>
+                    <textarea id="message" name="message" rows="5" required></textarea>
+                </div>
+
+                <button type="submit">Enviar Mensagem</button>
+            </form>
+        </div>
+    </main>
+
+    <footer>
+        <p>Endereço: P Sherman, 42 - Wallaby Way, Sydney</p>
+        <p>Email: sisyphus@gmail.com | Telefone: 4002-8922</p>
+        <p>&copy; 2024 Sisyphus. Todos os direitos reservados.</p>
+    </footer>
+
+</body>
+</html>
