@@ -17,11 +17,11 @@ CSS: Estilização e layouts.
 
  * Funcionalidades:
 
-[x] Menu de Navegação: Acesso rápido às categorias de produtos.
+Menu de Navegação: Acesso rápido às categorias de produtos.
 
-[x] Galeria de Produtos: Cards estilizados com preços e descrições.
+Galeria de Produtos: Cards estilizados com preços e descrições.
 
-[x] Efeitos Hover: Interatividade visual ao passar o mouse nos itens.
+Efeitos Hover: Interatividade visual ao passar o mouse nos itens.
 
 __________________________________________________________________________________________________
 Projeto Acadêmico
