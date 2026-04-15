@@ -24,4 +24,4 @@ Galeria de Produtos: Cards estilizados com preços e descrições.
 Efeitos Hover: Interatividade visual ao passar o mouse nos itens.
 
 __________________________________________________________________________________________________
-Projeto Acadêmico
+
